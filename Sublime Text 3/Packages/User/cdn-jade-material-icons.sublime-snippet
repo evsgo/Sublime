@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+link(rel='stylesheet', href='https://fonts.googleapis.com/icon?family=Material+Icons')$0
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cdn</tabTrigger>
+  <description>Material icons</description>
+  <scope>source.jade, text.jade</scope>
+</snippet>

@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorsublime",
+		"Emmet",
+		"Jade",
+		"LESS",
+		"Markdown Preview",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Material Theme - White Panels",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Terminal",
+		"Theme - Cobalt2"
+	]
+}

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<!-- '$1' -->
+<div class="$2">
+	$0
+</div><!-- end ./ '$1' -->
+]]></content>
+	<tabTrigger>di</tabTrigger>
+	<scope>text.html</scope>
+	<description>comment block</description>
+</snippet>
+
